@@ -1,0 +1,12 @@
+"query_country","similar_country","distance","income_group","gdp_per_capita","life_expectancy","life_exp_delta"
+"Bangladesh","Egypt",1.67,"Lower middle income",583,58.5,3
+"Bangladesh","Senegal",1.683,"Lower middle income",109,55.6,0.100000000000001
+"Bolivia","Zimbabwe",2.026,"Lower middle income",1388,62.8,10.5
+"Bolivia","Iran",1.999,"Lower middle income",146,54.8,2.5
+"Bolivia","Sri Lanka",1.874,"Lower middle income",241,54.7,2.40000000000001
+"Ethiopia","Uganda",1.743,"Low income",206,56.4,6.4
+"Ethiopia","Bangladesh",1.573,"Lower middle income",349,55.5,5.5
+"Ethiopia","Nepal",1.4,"Low income",67,50.3,0.299999999999997
+"Nigeria","Zambia",1.599,"Lower middle income",529,63.6,11
+"Nigeria","Ivory Coast",1.795,"Lower middle income",252,57.1,4.5
+"Nigeria","Philippines",1.647,"Lower middle income",391,56.9,4.3

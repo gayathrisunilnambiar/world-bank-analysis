@@ -1,0 +1,21 @@
+"query_country","similar_country","distance","income_group","gdp_per_capita","life_expectancy"
+"India","Angola",2.145,"Lower middle income",381,57.2
+"India","Vietnam",2.399,"Lower middle income",484,56.7
+"India","Ghana",2.455,"Lower middle income",708,55.7
+"India","Rwanda",2.604,"Low income",61,48.4
+"India","Guinea",2.888,"Low income",40,46.8
+"Kenya","Ghana",1.361,"Lower middle income",708,55.7
+"Kenya","Philippines",1.543,"Lower middle income",391,56.9
+"Kenya","Morocco",1.637,"Lower middle income",559,57.8
+"Kenya","Moldova",2.141,"Lower middle income",330,55
+"Kenya","Pakistan",2.156,"Lower middle income",343,54.3
+"Brazil","Peru",1.338,"Upper middle income",3337,66.2
+"Brazil","France",1.808,"High income",9728,78.4
+"Brazil","Spain",1.813,"High income",19461,73.5
+"Brazil","Australia",1.822,"High income",19505,73.6
+"Brazil","Libya",1.948,"Upper middle income",3318,66.8
+"Ukraine","Mongolia",0.911,"Lower middle income",294,63.3
+"Ukraine","Nicaragua",1.002,"Lower middle income",247,54.1
+"Ukraine","Indonesia",1.14,"Lower middle income",393,59.9
+"Ukraine","Egypt",1.208,"Lower middle income",583,58.5
+"Ukraine","Iran",1.269,"Lower middle income",146,54.8

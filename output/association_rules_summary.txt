@@ -1,0 +1,25 @@
+
+==========================================
+WORLD BANK ASSOCIATION RULES SUMMARY
+==========================================
+
+RULE 1 — GDP + Health Spending → Life Expectancy
+  High GDP + High Health Spend → High Life Exp: 32 countries
+  Insight: Health spending amplifies GDP's effect on longevity
+
+RULE 2 — Environmental Kuznets Curve
+  Middle-income countries with High CO2: 23 countries
+  Insight: Emissions peak at industrialisation phase then decline
+
+RULE 3 — Education + Internet → Income Group
+  Strong predictor: internet access > GDP for development classification
+
+RULE 4 — Regional Profiles
+  Highest avg GDP region: Europe & Central Asia
+  Highest avg Gini region: Sub-Saharan Africa
+
+RULE 5 — Inequality Paradox
+  High inequality persists into upper-middle income
+  Latin America and Sub-Saharan Africa most affected
+==========================================
+

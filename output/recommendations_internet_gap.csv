@@ -1,0 +1,5 @@
+"income_group","avg_internet","min_internet","max_internet","gap_to_high_income"
+"Low income",19.2,2.7,35.9,66
+"Lower middle income",41.9,19.6,57.7,43.3
+"Upper middle income",65.3,51.8,80.6,19.9
+"High income",85.2,63.9,98,0

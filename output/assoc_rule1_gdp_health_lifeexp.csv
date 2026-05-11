@@ -1,0 +1,14 @@
+"gdp_level","health_level","life_level","n"
+"High GDP","High Health Spend","High Life Exp",32
+"Low GDP","Low Health Spend","Low Life Exp",30
+"Middle GDP","Mid Health Spend","Mid Life Exp",22
+"Middle GDP","Low Health Spend","Mid Life Exp",7
+"Low GDP","Mid Health Spend","Low Life Exp",6
+"High GDP","Mid Health Spend","High Life Exp",6
+"Middle GDP","High Health Spend","Mid Life Exp",5
+"Low GDP","Mid Health Spend","Mid Life Exp",3
+"Middle GDP","Low Health Spend","Low Life Exp",2
+"Middle GDP","Mid Health Spend","Low Life Exp",2
+"Middle GDP","High Health Spend","High Life Exp",2
+"High GDP","Mid Health Spend","Mid Life Exp",2
+"Low GDP","Low Health Spend","Mid Life Exp",1

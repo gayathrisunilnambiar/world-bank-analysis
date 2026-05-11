@@ -1,0 +1,26 @@
+"country","region","income_group","gdp_per_capita","life_expectancy","predicted_life_exp","life_exp_residual"
+"Mongolia","East Asia & Pacific","Lower middle income",294,63.3,55.9075406399666,7.39245936003342
+"France","Europe & Central Asia","High income",9728,78.4,71.3903474173678,7.00965258263221
+"Gambia","Sub-Saharan Africa","Low income",31,52.5,45.9537889646266,6.54621103537339
+"Finland","Europe & Central Asia","High income",17406,80.4,73.9646619862648,6.43533801373522
+"Botswana","Sub-Saharan Africa","Upper middle income",2996,72.3,66.1792550898701,6.12074491012989
+"Kazakhstan","East Asia & Pacific","Upper middle income",917,66.6,60.9407490909265,5.65925090907349
+"Zambia","Sub-Saharan Africa","Lower middle income",529,63.6,58.506642395155,5.09335760484504
+"Japan","East Asia & Pacific","High income",52506,83.3,78.8500183718788,4.44998162812119
+"Ecuador","Americas","Upper middle income",1476,67.4,63.046829083504,4.35317091649601
+"Senegal","Sub-Saharan Africa","Lower middle income",109,55.6,51.5172212764429,4.08277872355713
+"Ukraine","Europe & Central Asia","Lower middle income",197,58.2,54.1360004371787,4.06399956282129
+"Sierra Leone","Sub-Saharan Africa","Low income",113,55.6,51.6766868543757,3.92331314562433
+"Brazil","Americas","Upper middle income",6571,73.4,69.6543540363338,3.74564596366621
+"Germany","Europe & Central Asia","High income",44913,81.6,78.1588809338145,3.44111906618551
+"Jamaica","Americas","Upper middle income",1778,67.3,63.8705003812965,3.42949961870355
+"Estonia","Europe & Central Asia","High income",31501,79.8,76.5894077120372,3.21059228796283
+"Burkina Faso","Sub-Saharan Africa","Low income",69,52.7,49.4940695271923,3.20593047280767
+"Croatia","Europe & Central Asia","High income",28631,79.1,76.1667203361919,2.93327966380812
+"Afghanistan","East Asia & Pacific","Low income",18,46.3,43.5484586610084,2.75154133899159
+"Indonesia","East Asia & Pacific","Lower middle income",393,59.9,57.1917179834254,2.70828201657462
+"Czech Republic","Europe & Central Asia","High income",16338,76.3,73.6844848460842,2.61551515391575
+"Canada","Americas","High income",51630,81.3,78.7755749395784,2.52442506042162
+"Ireland","Europe & Central Asia","High income",21112,77.1,74.8187451309417,2.28125486905833
+"Israel","Middle East & North Africa","High income",39209,79.8,77.557915115193,2.242084884807
+"Uganda","Sub-Saharan Africa","Low income",206,56.4,54.3336621748407,2.06633782515932

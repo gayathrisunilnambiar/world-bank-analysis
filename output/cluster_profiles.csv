@@ -1,0 +1,5 @@
+"cluster","n_countries","avg_gdp","avg_life_exp","avg_infant_mort","avg_internet","avg_electricity","dominant_income","dominant_region"
+"1",36,33731,76.6,3.2,85.6,93.7,"High income","Europe & Central Asia"
+"4",32,3562,66.3,10,65.7,80.3,"Upper middle income","Americas"
+"2",31,449,56.4,37.3,41.1,63.4,"Lower middle income","East Asia & Pacific"
+"3",21,69,48.5,80.4,18.9,41,"Low income","Sub-Saharan Africa"

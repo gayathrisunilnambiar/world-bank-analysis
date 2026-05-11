@@ -1,0 +1,9 @@
+"gdp_level","co2_level","n"
+"Low GDP","Low CO2",29
+"Middle GDP","High CO2",23
+"High GDP","Mid CO2",21
+"High GDP","High CO2",17
+"Low GDP","Mid CO2",11
+"Middle GDP","Low CO2",9
+"Middle GDP","Mid CO2",8
+"High GDP","Low CO2",2

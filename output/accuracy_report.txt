@@ -1,0 +1,28 @@
+
+==========================================
+WORLD BANK ANALYSIS - ACCURACY REPORT
+==========================================
+
+1. PCA MODEL ACCURACY
+   PC1 variance explained  : 65.67%
+   PC1+PC2 combined        : 75.36%
+   Reconstruction RMSE (2PC): 0.4943
+   Status: GOOD (>50%% in 2 PCs)
+
+2. CLUSTERING QUALITY (K=4)
+   Silhouette Score        : 0.2351  (POOR)
+   Davies-Bouldin Index    : 1.5166
+   Income Group Purity     : 95.00%
+   Status: FAIR
+
+3. DATA COVERAGE
+   Total countries         : 120
+   Indicators used         : 12
+   Regions covered         : 5
+
+4. KEY INSIGHT
+   PC1 explains 65.7% of variance — far higher than random data
+   because development indicators are genuinely correlated.
+   Clusters align 95% with World Bank income groups.
+==========================================
+

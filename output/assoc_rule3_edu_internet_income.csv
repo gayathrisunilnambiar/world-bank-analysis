@@ -1,0 +1,20 @@
+"edu_level","internet_level","income_group","n"
+"Low Edu Spend","High Internet","High income",14
+"Mid Edu Spend","High Internet","High income",11
+"Mid Edu Spend","Mid Internet","Upper middle income",10
+"High Edu Spend","High Internet","High income",10
+"Low Edu Spend","Mid Internet","Upper middle income",9
+"Low Edu Spend","Low Internet","Low income",8
+"Mid Edu Spend","Low Internet","Low income",7
+"Mid Edu Spend","Low Internet","Lower middle income",7
+"High Edu Spend","Low Internet","Low income",7
+"High Edu Spend","Mid Internet","Upper middle income",7
+"Low Edu Spend","Low Internet","Lower middle income",6
+"High Edu Spend","Low Internet","Lower middle income",5
+"Low Edu Spend","Mid Internet","Lower middle income",4
+"Mid Edu Spend","Mid Internet","Lower middle income",4
+"High Edu Spend","Mid Internet","Lower middle income",4
+"High Edu Spend","High Internet","Upper middle income",3
+"Low Edu Spend","High Internet","Upper middle income",2
+"Mid Edu Spend","Mid Internet","High income",1
+"High Edu Spend","Mid Internet","High income",1

@@ -1,0 +1,30 @@
+"country","region","income_group","gdp_per_capita","life_expectancy","predicted_life_exp","life_exp_residual"
+"Bolivia","Americas","Lower middle income",422,52.3,57.5067369568258,-5.20673695682578
+"DR Congo","Sub-Saharan Africa","Low income",41,42.4,47.1908655520348,-4.79086555203479
+"Mali","Sub-Saharan Africa","Low income",55,43.8,48.4906676913121,-4.69066769131214
+"Sweden","Europe & Central Asia","High income",81899,76.4,80.81705598956,-4.41705598955997
+"Nigeria","Sub-Saharan Africa","Lower middle income",377,52.6,57.0078082541485,-4.40780825414854
+"Cambodia","East Asia & Pacific","Lower middle income",1060,57.4,61.5819607561134,-4.18196075611343
+"Ghana","Sub-Saharan Africa","Lower middle income",708,55.7,59.7962436012515,-4.09624360125146
+"UK","Europe & Central Asia","High income",41862,73.8,77.8476092807401,-4.04760928074012
+"Guatemala","Americas","Upper middle income",1574,59.3,63.331267786686,-4.03126778668604
+"Austria","Europe & Central Asia","High income",36378,73.3,77.2263194188695,-3.92631941886954
+"Portugal","Europe & Central Asia","High income",37889,73.6,77.406389453423,-3.80638945342298
+"Mozambique","Sub-Saharan Africa","Low income",57,44.9,48.6487091653155,-3.74870916531551
+"Venezuela","Americas","Upper middle income",4905,64.8,68.3605260422366,-3.56052604223662
+"Bahrain","Middle East & North Africa","High income",38759,74.1,77.5068394687468,-3.40683946874681
+"Benin","Sub-Saharan Africa","Low income",29,42.3,45.6587002487372,-3.35870024873718
+"Colombia","Americas","Upper middle income",2406,62.1,65.2088653029507,-3.10886530295067
+"El Salvador","Americas","Lower middle income",447,54.7,57.7613924319681,-3.06139243196813
+"Kenya","Sub-Saharan Africa","Lower middle income",818,57.5,60.4352496821935,-2.9352496821935
+"South Africa","Sub-Saharan Africa","Upper middle income",5458,65.9,68.8332039507788,-2.93320395077878
+"Madagascar","Sub-Saharan Africa","Low income",69,46.6,49.4940695271923,-2.89406952719234
+"Iraq","Middle East & North Africa","Upper middle income",1157,59.1,61.9693935031511,-2.86939350315114
+"Burundi","Sub-Saharan Africa","Low income",69,46.8,49.4940695271923,-2.69406952719234
+"Latvia","Europe & Central Asia","High income",30829,73.8,76.4939959527209,-2.69399595272091
+"Haiti","Americas","Low income",48,45.3,47.8883249023886,-2.58832490238856
+"Albania","Europe & Central Asia","Upper middle income",1323,60.1,62.5626181660997,-2.46261816609971
+"Tunisia","Middle East & North Africa","Lower middle income",301,53.7,56.0116558170372,-2.31165581703722
+"Pakistan","East Asia & Pacific","Lower middle income",343,54.3,56.589609745689,-2.28960974568902
+"Cameroon","Sub-Saharan Africa","Lower middle income",1496,61,63.1063816765634,-2.10638167656344
+"Qatar","Middle East & North Africa","High income",37807,75.3,77.396803087081,-2.09680308708101

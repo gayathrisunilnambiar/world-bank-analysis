@@ -1,0 +1,28 @@
+
+==========================================
+POLICY RECOMMENDATION REPORT
+==========================================
+
+1. SIMILAR COUNTRY PAIRS
+   Used: Euclidean distance on 12 normalized indicators
+   Countries analyzed: India, Kenya, Brazil, Ukraine
+
+2. OVER-PERFORMERS (life expectancy above GDP prediction)
+   Count: 25 countries
+   Key insight: Strong health systems and education
+   can extend life expectancy beyond what income alone predicts.
+
+3. UNDER-PERFORMERS (life expectancy below GDP prediction)
+   Count: 29 countries
+   Key insight: Resource wealth without institutional investment
+   leads to worse outcomes than comparable-income peers.
+
+4. DIGITAL DIVIDE
+   Internet access gap (Low vs High income): 66.0%
+   Closing this gap is the single fastest lever for development.
+
+5. METHODOLOGY
+   Similarity metric: Euclidean distance on z-scored indicators
+   Over/under-performance: Residual from log-linear Preston regression
+==========================================
+

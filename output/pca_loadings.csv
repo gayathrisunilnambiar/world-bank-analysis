@@ -1,0 +1,13 @@
+"indicator","PC1","PC2","PC3","importance"
+"education_expenditure",-0.0179,-0.7159,-0.5291,0.7338
+"unemployment_rate",0.0471,0.6757,-0.6536,0.7228
+"log_infant_mort",-0.338,0.0566,-0.0861,0.3946
+"internet_users",0.3482,-0.0133,-0.0187,0.3615
+"log_gdp",0.3493,0.0039,0.0433,0.3532
+"urban_population",0.3259,-0.0269,-0.0488,0.3528
+"literacy_rate",0.3411,-0.0092,0.0211,0.3503
+"electricity_access",0.3462,-0.0033,0.0132,0.3495
+"life_expectancy",0.3461,0.0014,0.0352,0.3475
+"health_expenditure",0.3144,-0.0242,0.165,0.3386
+"log_co2",0.2274,0.0886,0.0274,0.316
+"gini_coefficient",-0.1648,0.1352,0.501,0.3

@@ -1,0 +1,33 @@
+"income_group","year","forecast_gdp","lower","upper","model_r2"
+"Low income",2023,62,18,209,0.183
+"Low income",2024,65,19,219,0.183
+"Low income",2025,67,20,229,0.183
+"Low income",2026,71,21,239,0.183
+"Low income",2027,74,22,250,0.183
+"Low income",2028,77,23,262,0.183
+"Low income",2029,80,24,274,0.183
+"Low income",2030,84,25,286,0.183
+"Lower middle income",2023,427,126,1449,0.216
+"Lower middle income",2024,449,132,1522,0.216
+"Lower middle income",2025,471,139,1599,0.216
+"Lower middle income",2026,495,146,1680,0.216
+"Lower middle income",2027,520,153,1766,0.216
+"Lower middle income",2028,546,160,1855,0.216
+"Lower middle income",2029,573,168,1950,0.216
+"Lower middle income",2030,602,177,2049,0.216
+"Upper middle income",2023,3119,813,11963,0.126
+"Upper middle income",2024,3243,845,12446,0.126
+"Upper middle income",2025,3372,878,12949,0.126
+"Upper middle income",2026,3507,913,13473,0.126
+"Upper middle income",2027,3646,948,14018,0.126
+"Upper middle income",2028,3791,985,14587,0.126
+"Upper middle income",2029,3942,1024,15179,0.126
+"Upper middle income",2030,4099,1064,15795,0.126
+"High income",2023,29889,9888,90351,0.077
+"High income",2024,30631,10129,92627,0.077
+"High income",2025,31391,10377,94964,0.077
+"High income",2026,32170,10630,97363,0.077
+"High income",2027,32969,10889,99825,0.077
+"High income",2028,33787,11153,102352,0.077
+"High income",2029,34626,11424,104947,0.077
+"High income",2030,35485,11702,107610,0.077
